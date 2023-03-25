@@ -67,8 +67,9 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/" aria-label={BLOG.title}>
             <div className="h-6">
-              <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="50" cy="50" r="44" stroke="#222222" stroke-width="12"/>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.56522 21.7043C13.5801 21.7043 16.8348 18.4497 16.8348 14.4348C16.8348 10.4199 13.5801 7.16522 9.56522 7.16522C5.55035 7.16522 2.29565 10.4199 2.29565 14.4348C2.29565 18.4497 5.55035 21.7043 9.56522 21.7043ZM9.56522 24C14.8479 24 19.1304 19.7175 19.1304 14.4348C19.1304 9.15206 14.8479 4.86957 9.56522 4.86957C4.28249 4.86957 0 9.15206 0 14.4348C0 19.7175 4.28249 24 9.56522 24Z" fill="#222222"/>
+<circle cx="20.1739" cy="3.82609" r="3.82609" fill="#DE0000"/>
 </svg>
             </div>
           </Link>
