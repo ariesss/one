@@ -69,7 +69,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .sticky-nav {
-  background: rgb(24 24 27/var(--tw-bg-opacity));
+  opacity: 0.9;
   position: sticky;
   z-index: 10;
   top: -1px;
