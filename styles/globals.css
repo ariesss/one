@@ -69,7 +69,6 @@ body::-webkit-scrollbar-thumb {
 }
 
 .sticky-nav {
-  opacity: 0.9;
   position: sticky;
   z-index: 10;
   top: -1px;
