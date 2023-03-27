@@ -122,7 +122,6 @@ nav {
 @media (min-width: 768px) {
 .md\:mb-8 {
   border-bottom-width: 1px;
-    border-color: rgb(229 231 235/var(--tw-border-opacity));
   padding-bottom: 20px;
 }
   .sticky-nav-full {
