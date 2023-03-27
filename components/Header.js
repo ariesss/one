@@ -8,7 +8,7 @@ const NavBar = () => {
   const links = [
     { id: 0, name: locale.NAV.INDEX, to: BLOG.path || '/', show: true },
     { id: 1, name: locale.NAV.SHARING, to: '/sharing', show: true },
-    { id: 2, name: locale.NAV.ABOUT, to: '/about', show: true },
+    { id: 2, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
     { id: 3, name: locale.NAV.SEARCH, to: '/search', show: true }
   ]
   return (
